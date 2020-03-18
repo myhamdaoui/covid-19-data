@@ -24,6 +24,7 @@
         "Dar Bouazza": "0",
         "Taza": "0",
         "Berkane": "0",
-        "Fquih Ben Salah": "1"
+        "Fquih Ben Salah": "1",
+        "Access-Control-Allow-Origin" : "*"
     }
 ]
